@@ -1,0 +1,308 @@
+{
+    "tarian": [
+        {
+            "id": "1",
+            "province": "Nanggroe Aceh Darussalam",
+            "capital": "Banda Aceh",
+            "description": "Tarian Saman merupakan tarian tradisional Aceh yang dikenal dengan gerakannya yang dinamis dan serempak. Tarian ini sering kali dilakukan oleh sekelompok pria dengan gerakan tangan yang cepat dan berirama, serta diiringi nyanyian dan tepukan tangan.",
+            "pictureId": "https://asset.kompas.com/crops/M_gbeWeLCn_Nj0YdmP8voikumq4=/0x0:1200x800/750x500/data/photo/2021/09/05/6134a2c22d5b3.jpg",
+            "name": "Tari Saman"
+        },
+        {
+            "id": "2",
+            "province": "Sumatera Utara",
+            "capital": "Medan",
+            "description": "Tortor adalah tarian tradisional dari masyarakat Batak, Sumatera Utara. Tarian ini biasanya dipentaskan dalam upacara adat dan diiringi oleh musik Gondang. Gerakannya khas dengan hentakan kaki dan tangan yang diangkat ke atas.",
+            "pictureId": "https://wonderfulimage.s3-id-jkt-1.kilatstorage.id/1648559821-creative-hub-samosir--51--jpg-medium.jpg",
+            "name": "Tari Tortor"
+        },
+        {
+            "id": "3",
+            "province": "Sumatera Selatan",
+            "capital": "Palembang",
+            "description": "Tarian Gending Sriwijaya adalah tarian tradisional dari Sumatera Selatan yang menggambarkan kejayaan Kerajaan Sriwijaya. Tarian ini biasanya dipentaskan dalam acara-acara penting dan upacara adat.",
+            "pictureId": "https://i.pinimg.com/originals/98/82/f3/9882f3151d653329dc8584e76955eb70.jpg",
+            "name": "Tarian Gending Sriwijaya"
+        },
+        {
+            "id": "4",
+            "province": "Sumatera Barat",
+            "capital": "Padang",
+            "description": "Tari Piring adalah tarian tradisional dari Sumatera Barat yang menggunakan piring sebagai alat utama. Penari memegang piring di telapak tangan mereka dan menari dengan lincah sambil menjaga agar piring tidak terjatuh.",
+            "pictureId": "https://asset.kompas.com/crops/T5yr7372hWeesvvoozTK3Tsw8IQ=/0x0:750x500/750x500/data/photo/2022/02/05/61fe2cfd8d1cd.jpg",
+            "name": "Tari Piring"
+        },
+        {
+            "id": "5",
+            "province": "Bengkulu",
+            "capital": "Bengkulu",
+            "description": "Tari Andun adalah tarian tradisional dari Bengkulu yang biasanya ditampilkan dalam acara pernikahan sebagai simbol kebahagiaan dan sukacita. Tarian ini diiringi oleh musik tradisional dan gerakannya penuh semangat.",
+            "pictureId": "https://blog-static.mamikos.com/wp-content/uploads/2023/01/Tari-Andun.png",
+            "name": "Tari Andun"
+        },
+        {
+            "id": "6",
+            "province": "Riau",
+            "capital": "Pekanbaru",
+            "description": "Tari Zapin adalah tarian tradisional dari Riau yang dipengaruhi oleh budaya Arab. Tarian ini diiringi oleh musik gambus dan gerakannya lembut serta anggun.",
+            "pictureId": "https://palangkaraya.go.id/wp-content/uploads/2022/10/IMG_20221022_101004_1024_x_768_piksel.jpg",
+            "name": "Tari Zapin"
+        },
+        {
+            "id": "7",
+            "province": "Kepulauan Riau",
+            "capital": "Tanjung Pinang",
+            "description": "Tari Makyong adalah tarian tradisional dari Kepulauan Riau yang menggabungkan tarian, musik, dan drama. Tarian ini biasanya ditampilkan dalam upacara adat dan memiliki cerita yang disampaikan melalui gerakan dan dialog.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mak_Yong_Bintan.jpg/800px-Mak_Yong_Bintan.jpg",
+            "name": "Tari Makyong"
+        },
+        {
+            "id": "8",
+            "province": "Jambi",
+            "capital": "Jambi",
+            "description": "Tari Sekapur Sirih adalah tarian tradisional dari Jambi yang biasanya ditampilkan untuk menyambut tamu kehormatan. Tarian ini diiringi oleh musik tradisional dan gerakannya melambangkan penghormatan dan keramahan.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2020/10/tari_sekapur_sirih_1200.jpg",
+            "name": "Tari Sekapur Sirih"
+        },
+        {
+            "id": "9",
+            "province": "Lampung",
+            "capital": "Bandar Lampung",
+            "description": "Tari Sigeh Pengunten adalah tarian tradisional dari Lampung yang biasanya ditampilkan dalam acara penyambutan tamu. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2020/10/Koreografi_sigeh_pengunten_merepresentasikan_budaya_Lampung_yang_beragam.jpg",
+            "name": "Tari Sigeh Pengunten"
+        },
+        {
+            "id": "10",
+            "province": "Bangka Belitung",
+            "capital": "Pangkal Pinang",
+            "description": "Tari Campak adalah tarian tradisional dari Bangka Belitung yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://belitungwonderful.com/wp-content/uploads/2022/03/Campak-2.jpg",
+            "name": "Tari Campak"
+        },
+        {
+            "id": "11",
+            "province": "Kalimantan Barat",
+            "capital": "Pontianak",
+            "description": "Tari Ajat Temuai Datai yang dipopulerkan oleh suku Dayak Iban. Arti tarian ini sebagai wujud rasa syukur kepada Tuhan atas kedatangan tamu. Tarian ini ditampilkan sebagai hiburan para wisatawan lokal maupun asing.",
+            "pictureId": "https://cdn.popmama.com/content-images/community/20221020/community-2f76fb0829b0dee5a7495c2a5283a786.jpg?1666272064",
+            "name": "Tari Ajat Temuai Datai"
+        },
+        {
+            "id": "12",
+            "province": "Kalimantan Timur",
+            "capital": "Samarinda",
+            "description": "Tari Gantar adalah tarian tradisional dari Kalimantan Timur yang biasanya ditampilkan dalam upacara adat Dayak. Tarian ini diiringi oleh musik tradisional dan gerakannya melambangkan kerukunan serta kebersamaan.",
+            "pictureId": "https://cdn1.katadata.co.id/media/images/thumb/2021/11/15/Tari_gantar-2021_11_15-11_34_14_c71223d1e48ada3aea069ddfa5960cc4_960x640_thumb.jpg",
+            "name": "Tari Gantar"
+        },
+        {
+            "id": "13",
+            "province": "Kalimantan Selatan",
+            "capital": "Banjarbaru",
+            "description": "Tari Baksa Kembang adalah tarian tradisional dari Kalimantan Selatan yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://infopublik.id/resources/album/bulan-januari-2020/a9.jpg",
+            "name": "Tari Baksa Kembang"
+        },
+        {
+            "id": "14",
+            "province": "Kalimantan Tengah",
+            "capital": "Palangkaraya",
+            "description": "Tari Balean Dadas adalah tarian tradisional dari Kalimantan Tengah yang biasanya ditampilkan dalam upacara adat Dayak. Tarian ini diiringi oleh musik tradisional dan gerakannya melambangkan kesuburan serta keberkahan.",
+            "pictureId": "https://palangkaraya.go.id/wp-content/uploads/2023/03/1679027141039-01.jpeg",
+            "name": "Tari Balean Dadas"
+        },
+        {
+            "id": "15",
+            "province": "Kalimantan Utara",
+            "capital": "Tanjung Selor",
+            "description": "Tari Jepen adalah tarian tradisional dari Kalimantan Utara yang dipengaruhi oleh budaya Melayu. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2020/10/tari_jepen_genjoh_1200.jpg",
+            "name": "Tari Jepen"
+        },
+        {
+            "id": "16",
+            "province": "Banten",
+            "capital": "Serang",
+            "description": "Tari Cokek adalah tarian tradisional dari Banten yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://www.selasar.com/wp-content/uploads/2020/09/pertunjukkan-tari-cokek.jpg",
+            "name": "Tari Cokek"
+        },
+        {
+            "id": "17",
+            "province": "DKI Jakarta",
+            "capital": "Jakarta",
+            "description": "Tari Topeng Betawi adalah tarian tradisional dari Jakarta yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/07/03/1963446991.jpeg",
+            "name": "Tari Topeng Betawi"
+        },
+        {
+            "id": "18",
+            "province": "Jawa Barat",
+            "capital": "Bandung",
+            "description": "Tari Jaipong adalah tarian tradisional dari Jawa Barat yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/03/26/jaipongjpg-20230326042123.jpg",
+            "name": "Tari Jaipong"
+        },
+        {
+            "id": "19",
+            "province": "Jawa Tengah",
+            "capital": "Semarang",
+            "description": "Tari Gambyong adalah salah satu tarian tradisional Indonesia yang berasal dari daerah Jawa Tengah, khususnya Surakarta. Tarian ini awalnya merupakan bagian dari upacara ritual untuk menyambut musim panen, namun seiring waktu, Tari Gambyong berkembang menjadi sebuah seni pertunjukan yang lebih luas dan sering ditampilkan dalam berbagai acara seperti upacara adat, pernikahan, hingga acara kenegaraan.",
+            "pictureId": "https://kompaspedia.kompas.id/wp-content/uploads/2022/07/Tari-Tradisional-15_20180429DRA32.jpg",
+            "name": "Tari Gambyong"
+        },
+        {
+            "id": "20",
+            "province": "Daerah Istimewa Yogyakarta",
+            "capital": "Yogyakarta",
+            "description": "Tari Serimpi adalah tarian tradisional dari Yogyakarta yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://bknpdiperjuangan.id/wp-content/uploads/2023/02/tari-serimpi-1-1024x683.jpeg",
+            "name": "Tari Serimpi"
+        },
+        {
+            "id": "21",
+            "province": "Jawa Timur",
+            "capital": "Surabaya",
+            "description": "Tari Reog Ponorogo adalah tarian tradisional dari Jawa Timur yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Reog_ponorogo_dalam_event_eksotika_bromo.jpg/1200px-Reog_ponorogo_dalam_event_eksotika_bromo.jpg",
+            "name": "Tari Reog Ponorogo"
+        },
+        {
+            "id": "22",
+            "province": "Bali",
+            "capital": "Denpasar",
+            "description": "Tari Kecak adalah tarian tradisional dari Bali yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://geti.id/wp-content/uploads/2023/08/image-1024x695.png",
+            "name": "Tari Kecak"
+        },
+        {
+            "id": "23",
+            "province": "Nusa Tenggara Timur",
+            "capital": "Kupang",
+            "description": "Tari Caci adalah tarian tradisional dari Nusa Tenggara Timur yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/7/70/Caci_Dance.jpg",
+            "name": "Tari Caci"
+        },
+        {
+            "id": "24",
+            "province": "Nusa Tenggara Barat",
+            "capital": "Mataram",
+            "description": "Tari Rudat adalah tarian tradisional dari Nusa Tenggara Barat yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://cdn.idntimes.com/content-images/post/20211108/rrr-f92c4fee0cd758bfac14a5243c94fc0b.jpg",
+            "name": "Tari Rudat"
+        },
+        {
+            "id": "25",
+            "province": "Gorontalo",
+            "capital": "Gorontalo",
+            "description": "Tari Saronde adalah tarian tradisional dari Gorontalo yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://www.infopublik.id/resources/album/bulan-februari-2020/Tari_Saronde_Kreasi.jpg",
+            "name": "Tari Saronde"
+        },
+        {
+            "id": "26",
+            "province": "Sulawesi Barat",
+            "capital": "Mamuju",
+            "description": "Tari Pattuddu adalah tarian tradisional dari Sulawesi Barat yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://hypeabis.id/assets/photo/20221110000305000000TARIPATTUDU.jpg",
+            "name": "Tari Pattuddu"
+        },
+        {
+            "id": "27",
+            "province": "Sulawesi Tengah",
+            "capital": "Palu",
+            "description": "Tari Dero adalah tarian tradisional dari Sulawesi Tengah yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://pramuka.id/assets/uploads/2023/09/3-Tari-Dero-Sulteng.jpg",
+            "name": "Tari Dero"
+        },
+        {
+            "id": "28",
+            "province": "Sulawesi Utara",
+            "capital": "Manado",
+            "description": "Tari Maengket adalah tarian tradisional dari Sulawesi Utara yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://www.selasar.com/wp-content/uploads/2020/09/Sejarah-Tari-Maengket.jpg",
+            "name": "Tari Maengket"
+        },
+        {
+            "id": "29",
+            "province": "Sulawesi Tenggara",
+            "capital": "Kendari",
+            "description": "Tari Lulo adalah tarian tradisional dari Sulawesi Tenggara yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://media.telisik.id/assets/img/news/2022/12/tarian_lulo_laskar_sastra_uho_raih_juara_i_lomba_tari_kreasi_.jpeg",
+            "name": "Tari Lulo"
+        },
+        {
+            "id": "30",
+            "province": "Sulawesi Selatan",
+            "capital": "Makassar",
+            "description": "Tari Pakarena adalah tarian tradisional dari Sulawesi Selatan yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Performing_pakarena_dance.jpg",
+            "name": "Tari Pakarena"
+        },
+        {
+            "id": "31",
+            "province": "Maluku Utara",
+            "capital": "Sofifi",
+            "description": "Tari Lenso adalah tarian tradisional dari Maluku Utara yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://infopublik.id/resources/album/bulan-oktober-2022/tari_lenso.jpg",
+            "name": "Tari Lenso"
+        },
+        {
+            "id": "32",
+            "province": "Maluku",
+            "capital": "Ambon",
+            "description": "Tari Cakalele adalah tarian tradisional dari Maluku yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://cdn.idntimes.com/content-images/post/20230313/0413232022-shutterstock-1483726541-4ca10d321848f1c96b9086e0d4cbfff3_600x400.jpg",
+            "name": "Tari Cakalele"
+        },
+        {
+            "id": "33",
+            "province": "Papua Barat",
+            "capital": "Manokwari",
+            "description": "Tari Yospan adalah tarian tradisional dari Papua Barat yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://asset.kompas.com/crops/PeU1QMfccZ1VVjluUQOZQeYzSa8=/0x0:1280x853/750x500/data/photo/2021/08/18/611c9c48c09a5.jpg",
+            "name": "Tari Yospan"
+        },
+        {
+            "id": "34",
+            "province": "Papua",
+            "capital": "Jayapura",
+            "description": "Tari Selamat Datang adalah tarian tradisional dari Papua yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya lembut serta anggun.",
+            "pictureId": "https://media-cdn.tripadvisor.com/media/photo-s/06/10/55/4e/danau-sentani.jpg",
+            "name": "Tari Selamat Datang"
+        },
+        {
+            "id": "35",
+            "province": "Papua Tengah",
+            "capital": "Nabire",
+            "description": "Tari Musyoh adalah tarian tradisional dari Papua Tengah yang memiliki makna mendalam dalam budaya masyarakat setempat. Tarian ini biasanya ditampilkan sebagai bagian dari upacara penyucian dan pengusiran roh jahat. Tari Musyoh dipercaya dapat membawa kedamaian dan ketenangan bagi jiwa-jiwa yang gelisah serta menjauhkan pengaruh buruk dari lingkungan sekitar.",
+            "pictureId": "https://i0.wp.com/www.romadecade.org/wp-content/uploads/2022/08/Tari-Selamat-Datang.jpg?fit=750%2C600&ssl=1",
+            "name": "Tari Musyoh"
+        },
+        {
+            "id": "36",
+            "province": "Papua Pegunungan",
+            "capital": "Jayawijaya",
+            "description": "Tari Sajojo adalah tarian tradisional dari Papua Pegunungan yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://api2.kemenparekraf.go.id/storage/app/resources/shutterstock_1710747577_Ronaldy_Irfak_a20f7a834b.jpg",
+            "name": "Tari Sajojo"
+        },
+        {
+            "id": "37",
+            "province": "Papua Selatan",
+            "capital": "Merauke",
+            "description": "Tari Yosim Pancar adalah tarian tradisional dari Papua Selatan yang biasanya ditampilkan dalam acara-acara adat. Tarian ini diiringi oleh musik tradisional dan gerakannya energik serta penuh semangat.",
+            "pictureId": "https://asset-a.grid.id//crop/0x0:0x0/700x465/photo/2024/01/08/tari-yospanjpg-20240108091853.jpg",
+            "name": "Tari Yosim Pancar"
+        },
+        {
+            "id": "38",
+            "province": "Papua Barat Daya",
+            "capital": "Sorong",
+            "description": "Tari Seka adalah salah satu tarian tradisional yang berasal dari Papua Barat Daya. Tarian ini merupakan bagian dari budaya masyarakat setempat dan biasanya ditampilkan dalam berbagai upacara adat serta acara-acara penting lainnya. Tari Seka mencerminkan kehidupan sehari-hari masyarakat dan kebersamaan mereka. Gerakan dalam tarian ini dinamis dan penuh semangat, diiringi oleh musik tradisional yang menggugah semangat para penari dan penonton.",
+            "pictureId": "https://seputarpapua.com/wp-content/uploads/ba632ab2799e1adc4159cf8c5ca203d0.jpg",
+            "name": "Tari Seka"
+        }
+    ]
+}   

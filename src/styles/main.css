@@ -1,0 +1,379 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+main{
+  width: 100%;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+.skip-link {
+  position: absolute;
+  top: -50px;
+  left: 0;
+  padding: 0;
+  background-color: brown;
+  color: white;
+  text-decoration: none;
+  z-index: 100;
+  min-width: 44px;
+  min-height: 44px;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-block: 1rem;
+  display: flex;
+  justify-content: space-around;
+  z-index: 1000;
+  align-items: center;
+  color: white  ;
+  transition: background-color 0.3s ease;
+  background-color: #333;
+}
+
+.header__inner {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.header__title {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 45px;
+  margin-top: 10px;
+  font-weight: 900;
+}
+
+.header__menu {
+  font-size: 30px;
+  display: none;
+  width: 45px;
+  min-width: 44px;
+  min-height: 44px;
+  border: none;
+  cursor: pointer;
+}
+
+#nav__menu {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+#nav__menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav__item {
+  float: left;
+  position: relative;
+}
+
+
+.nav__item a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nav__item a:hover, .dropdown:hover .dropbtn {
+  /* background-color: grey; */
+  font-weight: 800;
+  
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.hero {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+.hero video{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: 100%;
+  height: 100%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  object-fit: cover;
+}
+
+/* CSS for the Tarian page */
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  border-bottom: 5px solid;
+  font-weight: lighter;
+}
+
+.container {
+  /* max-width: 100%; */
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 80px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-row-gap: 30px;
+  gap: 20px;
+}
+
+.card-container {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card-container:hover {
+  transform: translateY(-10px);
+}
+
+.card-container h2 {
+  text-align: center;
+  color: #333;
+}
+
+.card-content {
+  padding: 20px;
+  text-align: left;
+}
+
+.card-content h3 {
+  margin: 15px 0;
+  color: #333;
+  font-size: 20px;
+}
+
+.card-content img {
+  width: 100%;
+  height: 370px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+
+.card-content p {
+  font-size: 16px;
+  color: #555;
+  overflow: hidden;
+  /* text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  margin-bottom: 10px; */
+}
+
+
+.maincontent {
+  background-color: #fff;
+  padding: 20px;
+  margin: auto;
+  /* max-width: 1200px; */
+  /* border-radius: 10px; */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+.maincontent_team{
+  background-color: #78ABA8;
+  padding: 20px;
+  margin: auto;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.maincontent h2 {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.maincontent p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #666;
+  text-align: justify;
+}
+
+h2 {
+  margin: 50px;
+  text-align: start;
+}
+
+.team-section {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.team-section h2 {
+  font-size: 24px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.team-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.team-member {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.team-member img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.team-member h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.team-member .role {
+  font-style: italic;
+  color: #777;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.team-member p {
+  font-size: 14px;
+  color: #555;
+  text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    color: #fff;
+    padding: 20px 50px;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 0 20px;
+}
+
+.footer-section h3 {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.footer-section p, .footer-section ul {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 10px 0;
+}
+
+.footer-section ul.social-media {
+    display: flex;
+    gap: 10px;
+}
+
+.footer-section ul.social-media li {
+    display: inline;
+}
+
+.footer-section ul.social-media li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section ul.social-media li a:hover {
+    /* text-decoration: underline; */
+    color: gray;
+}
+
+.footer-bottom {
+    background-color: #222;
+    color: #aaa;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+}

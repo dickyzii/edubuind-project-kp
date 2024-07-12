@@ -1,0 +1,309 @@
+{
+    "kuliner": [
+        {
+            "id": "1",
+            "province": "Nanggroe Aceh Darussalam",
+            "capital": "Banda Aceh",
+            "description": "Berkunjung ke Aceh ga lengkap kalau ga nyobain Mie Aceh. Mie Aceh udah cukup terkenal di beberapa kota di Indonesia guys, ga sedikit orang yang jual makanan khas Aceh satu ini. Tapi tetap masing-masing memiliki ciri khas. Mie Aceh ini memiliki bentuk mie yang besar. Campuran dari Mie Aceh pada umumnya ada udang, cumi, bakso, tauge dan bawang merah serta cabe rawit. Ada 3 jenis mie aceh pada umumnya yaitu mie aceh kuah, mie aceh goreng atau mie aceh nyemek.",
+            "pictureId": "https://wisata-id.com/wp-content/uploads/2023/03/3111261266.jpg",
+            "name": "Mie Aceh"
+        },
+        {
+            "id": "2",
+            "province": "Sumatera Utara",
+            "capital": "Medan",
+            "description": "Nama ambon diambil dari jalan Ambon di Medan, tempat pertama kali dijual dan dibuat makanan ini. Kue ini terbuat dari tepung, santan, gula, dan kuning telur, nantinya akan difermentasi dengan menambah air nira. Penggunaan air nira inilah yang membuatnya berbeda dan khas. Biasa nya orang-orang yang jalan ke Medan akan membawa Bika sebagai oleh-oleh lo.",
+            "pictureId": "https://blog-static.mamikos.com/wp-content/uploads/2023/12/Makanan-khas-sumatera-utara.jpg",
+            "name": "Bika Ambon"
+        },
+        {
+            "id": "3",
+            "province": "Sumatera Selatan",
+            "capital": "Palembang",
+            "description": "Pempek merupakan makanan yang populer dari Sumatera Selatan. Bahan utama dari makanan yang satu ini adalah daging ikan yang sudah digiling dan tepung kanji. Beberapa bahan lainnya adalah telur, bawang putih, dan garam. Pempek disajikan bersama potongan timun dan kuah cuko. Di beberapa tempat, pempek juga disajikan dengan udang kering. Terdapat banyak variasi dari makanan ini, di antaranya adalah pempek keriting, pempek kapal selam, pempek lenjer, pempek cerewet dan lainnya.",
+            "pictureId": "https://storage.googleapis.com/mealy-strapi-bucket/pempek_fb292c19be/pempek_fb292c19be.jpeg",
+            "name": "Pempek"
+        },
+        {
+            "id": "4",
+            "province": "Sumatera Barat",
+            "capital": "Payakumbuh",
+            "description": "Mari buka daftar makanan khas Sumatera Barat dengan menu yang legendaris satu ini. Ya, rendang. Menu yang dibuat dari olahan daging sapi dan aneka rempah ini pernah menduduki peringkat pertama dalam daftar 50 hidangan paling lezat di dunia versi CNN International, lho. Sobat Pesona harus tahu nih, ternyata aneka bumbu dan rempah yang digunakan untuk mengolah rendang merupakan bumbu yang mengandung antiseptik.",
+            "pictureId": "https://suarapemerintah.id/wp-content/uploads/2022/02/1-768x512.webp",
+            "name": "Rendang"
+        },
+        {
+            "id": "5",
+            "province": "Bengkulu",
+            "capital": "Bengkulu",
+            "description": "Pendap adalah makanan tradisional masyarakat Bengkulu berbahan dasar ikan yang dikombinasikan dengan berbagai bumbu seperti bawang putih, cabe giling, kencur, dan kelapa parut muda.Disajikan dengan bungkusan Daun Talas, Kuliner khas Bengkulu akan sangat nikmat dimakan bersama dengan nasi putih hangat.",
+            "pictureId": "https://awsimages.detik.net.id/community/media/visual/2020/08/26/makanan-khas-bengkulu-3_169.jpeg?w=1200",
+            "name": "Pendap"
+        },
+        {
+            "id": "6",
+            "province": "Riau",
+            "capital": "Riau",
+            "description": "Sup Tunjang, sang juara kuliner Riau, wajib dicicipi para pencari sensasi gurih dan hangat. Bayangkan potongan kaki dan tulang sapi yang dimasak hingga empuk, berpadu dalam kuah santan kental nan harum.",
+            "pictureId": "https://img.kurio.network/-lBOdNCdzFgJ0CUcOipiRpcoy_8=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/22/02/02/cdfd2c1a-f065-46d5-9118-b81af0e64efd.jpe",
+            "name": "Sup Tunjang"
+        },
+        {
+            "id": "7",
+            "province": "Kepulauan Riau",
+            "capital": "Anambas",
+            "description": "Mie ini berasal dari Tarempa, Kabupaten Anambas. Masakan ini mirip mie telur berwarna kuning dan berbentuk pipih dengan cita rasa yang khas.",
+            "pictureId": "https://assets-a1.kompasiana.com/items/album/2019/07/12/img-3773-jpg-5d276be4097f361dce2245b2.jpg",
+            "name": "Mie Tarempa"
+        },
+        {
+            "id": "8",
+            "province": "Jambi",
+            "capital": "Jambi",
+            "description": "Tepek ikan adalah makanan khas Jambi berupa perpaduan antara sagu tani dan ikan gabus atau ikan tenggiri yang direbus kemudian digulai.",
+            "pictureId": "https://img-global.cpcdn.com/recipes/a119421a7eb35fd2/680x482cq70/gulai-tepek-ikan-khas-jambi-foto-resep-utama.jpg",
+            "name": "Gulai Tepek ikan"
+        },
+        {
+            "id": "9",
+            "province": "Lampung",
+            "capital": "Bandar Lampung",
+            "description": "Gulai Taboh merupakan makanan khas daerah Lampung pesisir yang memiki cita rasa gurih. Makanan ini selalu disajikan saat gelaran acara adat dan menjadi menu wajib.",
+            "pictureId": "https://thumb.viva.id/intipseleb/1265x711/2022/08/12/62f6140834e61-resep-gulai-ikan.jpg",
+            "name": "Gulai Taboh"
+        },
+        {
+            "id": "10",
+            "province": "Bangka Belitung",
+            "capital": "Pangkal Pinang",
+            "description": "Lempah pada dasarnya adalah masakan berupa gulai yang dibuat dengan menggunakan bumbu-bumbu khas Bangka. Di daerah asalnya, terdapat lempah darat dan lempah kuning. Lempah darat adalah gulai atau sayur yang berbahan baku di darat, seperti rebung, umbut nanas, keladi, umbut kelapa, jamur, mentimun, kacang panjang, dan pisang muda. Sementara itu, lempah kuning menggunakan bahan baku ikan, tulang rusuk sapi, dan ayam.",
+            "pictureId": "https://awsimages.detik.net.id/community/media/visual/2024/01/16/tampilan-lempah-kuning-makanan-khas-bangka-belitung_169.jpeg?w=1200",
+            "name": "Lempah"
+        },
+        {
+            "id": "11",
+            "province": "Kalimantan Barat",
+            "capital": "Pontianak",
+            "description": "Bubur pedas adalah salah satu makanan khas Kota Pontianak, Kalimantan Barat. Makanan ini terbuat dari beras yang diolah dengan bumbu rempah-rempah pilihan.",
+            "pictureId": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/09/20/3651345351.jpeg",
+            "name": "Bubur Pedas Khas Pontianak"
+        },
+        {
+            "id": "12",
+            "province": "Kalimantan Timur",
+            "capital": "Samarinda",
+            "description": "Ayam cincane biasanya dapat dengan mudah Anda temukan di acara-acara penting seperti pernikahan atau kelahiran. Namun, saat ini sudah banyak resto yang menyajikan menu ayam cincane. Bahan utamanya adalah ayam kampung yang diberi bumbu dengan bermacam rempah. Kemudian ayam dibakar atau digoreng.",
+            "pictureId": "https://stikeshb.ac.id/wp-content/uploads/2022/12/chicken-thighs-fried-banana-leaves-white-plate_1150-20730.jpg",
+            "name": "Ayam Cincane"
+        },
+        {
+            "id": "13",
+            "province": "Kalimantan Selatan",
+            "capital": "Banjarmasin",
+            "description": "Di antara berbagai ragam makanan khas yang ada di kawasan Kalimantan Selatan ini, makanan yang paling populer hingga se-Indonesia adalah Soto Banjar. Bahkan. tak jarang berbagai restoran yang ada di Indonesia, terutama restoran yang menyajikan menu tradisional turut menyuguhkan menu yang satu ini. Meskipun di Indonesia ini banyak sekali menu soto, tetapi yang membedakan antara soto banjar dengan jenis soto yang lainnya adalah kuah dari soto banjar yang cenderung bening dan menyerupai olahan sop. Selain itu, makanan yang satu ini paling cocok bila disantap dengan menggunakan ketupat dan sate, bukan nasi hangat.",
+            "pictureId": "https://img-global.cpcdn.com/recipes/57b52ad2b52c11bc/1200x630cq70/photo.jpg",
+            "name": "Soto Banjar"
+        },
+        {
+            
+            "id": "14",
+            "province": "Kalimantan Tengah",
+            "capital": "Palangkaraya",
+            "description": "Juhu Umbut Rotan merupakan kuliner khas Kalimantan Tengah dengan bahan dasar pangkal rotan yang masih muda. Juhu umbut rotan, olahan sayur khas Kalimantan Timur ini memiliki tekstur serupa sayur rebung. Umbut rotan bisa di masak menggunakan santan ataupun tanpa santan.",
+            "pictureId": "https://bknpdiperjuangan.id/wp-content/uploads/2023/01/Umbut-Rotan1.jpg",
+            "name": "Juhu Umbut Rotan"
+        },
+        {
+            "id": "15",
+            "province": "Kalimantan Utara",
+            "capital": "Tanjung Selor",
+            "description": "Salah satunya adalah kuliner khas dari Kalimantan Utara, yaitu nasi subut. Nasi ini berbeda dengan nasi pada umumnya. Jika biasanya kita sering menjumpai nasi berwarna putih, maka nasi subut warnanya adalah ungu. Nasi subut terbuat dari bahan dasar yaitu jagung, nasi, dan ubi jalar ungu. Buat kamu yang berencana membuat nasi subut sebagai menu masakan di rumah, simak resep yang berikut ini.",
+            "pictureId": "https://cdn.idntimes.com/content-images/community/2021/08/screenshot-2021-08-28-22-33-42-64-1c337646f29875672b5a61192b9010f9-6d2cbb4bbec2340f770674be006d2944-59c5725a4cb18d708477d6250464ee12.jpg",
+            "name": "Nasi Subut"
+        },
+        {
+            "id": "16",
+            "province": "Banten",
+            "capital": "Serang",
+            "description": "Sate Bandeng adalah masakan tradisional khas Banten, Indonesia. Sate Bandeng dibuat dari ikan bandeng yang dihilangkan durinya, dagingnya dibumbui dan dimasukkan kembali ke kulitnya, lalu ditusuk atau dijepit tusukan tangkai bambu, lalu dibakar di atas bara arang.",
+            "pictureId": "https://cdn0-production-images-kly.akamaized.net/L0cmw3McqVeaB5eSq2NmtalGQdc=/0x206:4500x2742/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3611791/original/054113400_1635132354-sate_lilit_ikan_bandeng.jpg",
+            "name": "Sate Bandeng"
+        },
+        {
+            "id": "17",
+            "province": "DKI Jakarta",
+            "capital": "Jakarta",
+            "description": "Kerak Telor adalah makanan asli daerah Jakarta (Betawi) yang sudah dikenal sejak zaman Belanda. Makanan satu ini juga dikenal karena proses pembuatannya yang unik, karena dibakar di atas arang. Makanan ini terbuat dari telur ayam atau bebek, beras ketan putih, ebi yang disangrai hingga menyerupai abon, lalu ditambah bawang goreng dan diberi bumbu halus, seperti kelapa sangrai.",
+            "pictureId": "https://cdn0-production-images-kly.akamaized.net/MUvybiwZ7wNk2cQAmxM2BXtXMV8=/0x251:6000x3633/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4333141/original/094643300_1677050370-shutterstock_2197062627.jpg",
+            "name": "Kerak Telor"
+        },
+        {
+            "id": "18",
+            "province": "Jawa Barat",
+            "capital": "Bandung",
+            "description": "Seblak adalah salah satu masakan khas Jawa Barat yang berasal dari Parahyangan. Hidangan tersebut memiliki rasa yang gurih, pedas dan pastinya bisa buat kamu ketagihan. Seblak memiliki keunikan tersendiri yaitu bumbunya menggunakan kencur dan rawit. Seblak bisa dibuat menggunakan berbagai macam bahan seperti kerupuk, ceker, sosis, bakso dan lainnya.",
+            "pictureId": "https://www.astronauts.id/blog/wp-content/uploads/2023/01/Daftar-Resep-Seblak-yang-Bikin-Ketagihan.jpg",
+            "name": "Seblak"
+        },
+        {
+            "id": "19",
+            "province": "Jawa Tengah",
+            "capital": "Semarang",
+            "description": "Getuk (gêthuk) adalah makanan yang terbuat dari singkong, direbus, kemudian dicampur gula pasir atau gula merah dan kelapa ditumbuk sekaligus. Getuk adalah penganan tradisional khas masyarakat Jawa yang populer di wilayah Daerah Istimewa Yogyakarta, Jawa Tengah, Ngawi dan Jawa Timur. Penganan ini berasal dari Magelang, Jawa Tengah. Dalam bahasa Sunda, getuk juga dikenal dengan sebutan gegetuk.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Getuk_1.jpg/250px-Getuk_1.jpg",
+            "name": "Getuk"
+        },
+        {
+            "id": "20",
+            "province": "Daerah Istimewa Yogyakarta",
+            "capital": "Yogyakarta",
+            "description": "Gudeg merupakan makanan asal Jogja yang bahan baku utamanya berasal dari nangka muda dan kemudian dimasak dengan santan. Umumnya, gudeg disajikan bersama nasi, areh, ayam, telur, tahu, dan juga sambal krecek. Karena dimasak dalam waktu yang lama bersama dengan daun jati, alhasil gudeg memiliki warna cokelat yang khas.",
+            "pictureId": "https://newfemme.co/img/artikel/806/gudeg-yogyakarta-cita-rasa-kuliner-indonesia",
+            "name": "Gudeg"
+        },
+        {
+            "id": "21",
+            "province": "Jawa Timur",
+            "capital": "Surabaya",
+            "description": "Bakso Malang menjadi salah satu makanan khas Jawa Timur yang sangat terkenal. Kepopuleran makanan ini terlihat dari penyebarannya di luar wilayah Jawa Timur. Bahkan, tak jarang kita menemui pedagang kaki lima yang menjajakkan bakso Malang di pinggir jalan atau bahkan di depan rumah.",
+            "pictureId": "https://disk.mediaindonesia.com/files/news/2024/01/12/Baso_Malang_Karapitan.jpg",
+            "name": "Bakso Malang"
+        },
+        {
+            "id": "22",
+            "province": "Bali",
+            "capital": "Denpasar",
+            "description": "Makanan khas Bali ini populer banget bahkan di kalangan turis internasional! Maklum, babi guling memang salah satu kuliner Bali yang andalan banget; bagi yang bisa mengonsumsinya (tentu aja makanan ini enggak halal, ya), menikmati babi guling pas liburan ke Bali adalah keharusan. Sesuai namanya, babi guling adalah hidangan daging babi yang dimasak dengan cara dibakar utuh bersama berbagai rempah, lalu diputar-putar (diguling-guling) agar masak merata. Kemudian dagingnya disajikan bersama nasi campur, dengan tekstur daging yang empuk dan kaya rasa dari rempah.",
+            "pictureId": "https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_1000/v1596032476/blog/s1rhcbxdwewaiqpl4xqf.webp",
+            "name": "Babi Guling"
+        },
+        {
+            "id": "23",
+            "province": "Nusa Tenggara Timur",
+            "capital": "Kupang",
+            "description": "Daging Se'i ini merupakan kuliner khas NTT yang sangat populer dan tidak boleh dilewatkan jika Anda berkunjung ke Kupang. Kepopuleran atas kelezatan makanan khas NTT yang satu ini bahkan menjadi ide bisnis bagi pengusaha-pengusaha di luar NTT. Hal ini membuktikan bahwa cita rasa Daging Se'i ini dicintai oleh masyarakat Indonesia.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/5/55/Se%27i_Babi_2.JPG",
+            "name": "Daging Se'i"
+        },
+        {
+            "id": "24",
+            "province": "Nusa Tenggara Barat",
+            "capital": "Mataram",
+            "description": "Memadukan ayam bakar dengan bumbu khas yang dapat menggoyang lidah, makanan khas daerah NTB satu ini yang dikenal dengan sebutan ayam taliwang ini tidak kalah dengan pelecing kangkung. Ayam taliwang juga selalu berhasil menarik perhatian pengunjung dan sudah dikenali tidak hanya di daerah NTB. Menyantap ayam taliwang menggunakan lalapan ditambah dengan nasi hangat menambah kenikmatan untuk menikmati makanan khas daerah NTB satu ini.",
+            "pictureId": "https://awsimages.detik.net.id/community/media/visual/2023/02/01/resep-ayam-taliwang-khas-lombok_43.jpeg?w=1200",
+            "name": "Ayam Taliwang"
+        },
+        {
+            "id": "25",
+            "province": "Gorontalo",
+            "capital": "Gorontalo",
+            "description": "Gorontalo merupakan salah satu daerah penghasil Jagung di Nusantara. Tak heran banyak panganan asal Gorontalo yang menggunakan jagung sebagai bahan utamanya, seperti Binte Buluhuta. Binte Buluhuta sendiri memiliki arti jagung yang disiram. Makanan khas Gorontalo ini dibuat dari parutan jagung yang dicampur parutan kelapa, udang, potongan ikan cakalang dan disirami dengan kuah rempah yang gurih.",
+            "pictureId": "https://img-global.cpcdn.com/recipes/88256591462e45bc/400x400cq70/photo.jpg",
+            "name": "Binte Buluhuta"
+        },
+        {
+            "id": "26",
+            "province": "Sulawesi Barat",
+            "capital": "Mamuju",
+            "description": "Makanan khas Sulawesi Barat yang pertama adalah sambusa. Makanan ini memiliki tampilan yang serupa dengan samosa, penganan asal India dan Pakistan. Hanya saja, sambusa ini punya isian berupa daging ikan tuna halus dengan bumbu seperti bawang putih, bawang merah, dan seledri. Sedangkan samosa biasanya berisi rempah-rempah, sayuran, dan kentang rebus.",
+            "pictureId": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1559281514/jdpwy3qirglrmenn1ahp.jpg",
+            "name": "Sambusa"
+        },
+        {
+            "id": "27",
+            "province": "Sulawesi Tengah",
+            "capital": "Palu",
+            "description": "Kalau kamu ingin mencicipi jajanan camilan yang lezat di Sulawesi Tengah, tak ada salahnya mencoba Lalampa. Makanan ini mirip seperti lemper yang populer di Jawa. Hanya saja yang membedakan adalah isiannya berupa ikan cakalang, lalu dibakar dengan bungkus daun pisang. Karena menggunakan ikan cakalang, tentu memiliki aroma dan rasa yang sangat khas.",
+            "pictureId": "https://ik.imagekit.io/tvlk/blog/2023/09/lalampa-khas-palu.jpg?tr=dpr-2,w-675",
+            "name": "Lalampa"
+        },
+        {
+            "id": "28",
+            "province": "Sulawesi Utara",
+            "capital": "Manado",
+            "description": "Ini merupakan bubur yang dimasak dengan labu, bayam, kangkung, daun gedi, singkong, daun kemangi dan jagung. Selain itu, bubur manado juga dikenal dengan makanan khas Sulawesi Utara tinutuan.",
+            "pictureId": "https://asset.kompas.com/crops/8IPl4RcIfLh3fkwXhKHPuPHqoz8=/81x22:892x563/750x500/data/photo/2020/05/13/5ebbdec618a37.jpg",
+            "name": "Bubur Manado"
+        },
+        {
+            "id": "29",
+            "province": "Sulawesi Tenggara",
+            "capital": "Kendari",
+            "description": "Passau Nggela ini berasal dari sulawesi tenggara, berbahan dasar tepung beras, santan, dan labu kuning",
+            "pictureId": "https://img-global.cpcdn.com/recipes/a54a84fceb13bc8a/680x482cq70/450passau-nggela-khas-sulawesi-tenggara-foto-resep-utama.webp",
+            "name": "Passau Nggela"
+        },
+        {
+            "id": "30",
+            "province": "Sulawesi Selatan",
+            "capital": "Makassar",
+            "description": "Coto Makassar merupakan salah satu kuliner khas Sulawesi Selatan, tepatnya berasal dari daerah Makassar. Katanya, makanan ini sudah ada sejak zaman Kerajaan Gowa berdiri sekitar tahun 1538 Masehi. Coto Makassar terlihat layaknya sup daging sapi namun memiliki bumbu rempah beraneka rupa. Untuk membuat Cotto Makassar yang benar-benar khas, setidaknya diperlukan 40 jenis bumbu lokal.",
+            "pictureId": "https://asset.kompas.com/crops/HwvWgOyjELRqljZh2bdXEpR1t4M=/32x7:1000x653/750x500/data/photo/2022/06/19/62ae88c4a1690.jpeg",
+            "name": "Coto Makassar"
+        },
+        {
+            "id": "31",
+            "province": "Maluku Utara",
+            "capital": "Sofifi",
+            "description": "Siapa yang tidak kenal dengan papeda. Makanan ini yang paling populer dari makanan khas Maluku Utara. Dengan begitu, jangan mengaku pernah ke Maluku Utara kalau belum pernah mencoba hidangan ini, ya. Papeda merupakan hidangan tradisional yang berasal dari Maluku dan Papua, yang terbuat dari bubur sagu.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg/1200px-Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg",
+            "name": "Papeda"
+        },
+        {
+            "id": "32",
+            "province": "Maluku",
+            "capital": "Ambon",
+            "description": "Sebagai daerah penghasil rempah-rempah terbesar di Indonesia, Maluku tidak melewatkan kesempatan mengolah salah satu hasil rempahnya yang khas menjadi hidangan lezat. Sebut saja ikan kuah pala banda. Kakap salem dipilih sebagai bahan utama yang kemudian dimasak menggunakan kuah bercita rasa asam pedas. Dulunya, hanya para petinggi Belanda saja yang dapat mengonsumsi makanan ini. Tetapi, pergantian zaman membuat siapa saja dapat menyantap ikan kuah pala banda.",
+            "pictureId": "https://ozip.com.au/wp-content/uploads/2018/08/LR_Ikan-Kuah-Pala-Bada.jpg",
+            "name": "Ikan Kuah Pala Banda "
+        },
+        {
+            "id": "33",
+            "province": "Papua Barat",
+            "capital": "Manokwari",
+            "description": "Mirip dengan pepes ikan, namun ikan bungkus dari Papua dibungkus menggunakan daun talas. Makanan khas Papua Barat ini terbuat dari ikan laut dengan menggunakan daun salam dan bumbu campuran khas papua lainnya. Wanginya yang khas dan sangat meresap hingga ke daging ikan saat Anda memakannya.",
+            "pictureId": "https://wisata-id.com/wp-content/uploads/2023/03/Hidangan-yang-disarankan-dari-Papua-Barat-Ikan-Bungkus-Papua.jpg",
+            "name": "Ikan Bungkus "
+        },
+        {
+            "id": "34",
+            "province": "Papua",
+            "capital": "Jayapura",
+            "description": "Papeda merupakan makanan khas Papua yang terbuat dari pohon sagu yang diperas, disaring dan dimasak hingga memiliki tekstur yang kental, padat dengan rasa tawar.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2023/04/pakk_Artboard_1.jpg",
+            "name": "Papeda dengan Ikan Kuah Kuning"
+        },
+        {   
+            "id": "35",
+            "province": "Papua Tengah",
+            "capital": "Nabire",
+            "description": "Merupakan kepiting besar yang mudah ditemui di muara sungai sekitaran Kabupaten Mimika. Masyarakat Papua bisa menyebutnya dengan Karaka, yang biasanya diolah dengan bumbu khas Papua, biasanya masyarakat sekitar mengolahnya dengan cara ditumis. Rasa daging kepiting yang lezat, wajib untuk Anda nikmati jika berkunjung ke sini.",
+            "pictureId": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRnL-PKlrcxXkhyTyqlozqz2kFUji9b-lmxqHrNOX9e05UkO4vEMGTo7dGF3shW88bi1_kNMHTsaAIUcTmT-9zNAZRQ1DyOt5m5O_DgCGh97KGC8cN_QcT8kBMdT1XcOIixWP36akk2x_/s1600/DSC_0155.JPG",
+            "name": "Kepiting Karaka"
+        },
+        {
+            "id": "36",
+            "province": "Papua Pegunungan",
+            "capital": "Jayawijaya",
+            "description": "Kuliner udang yang memiliki ukuran besar ini dinamakan Udang Selingkuh karena gosipnya jenis udang satu ini merupakan hasil ‘perselingkuhan’ antara udang, kepiting, dan juga lobster. Kuliner udang selingkuh khas Sorong disajikan dengan berbagai macam cara dan metode  .",
+            "pictureId": "https://kabarpapua.co/wp-content/uploads/2024/03/9158e8cbd1669108839a9d93e6c76e3a.jpg",
+            "name": "Udang Selingkuh"
+        },
+        {
+            "id": "37",
+            "province": "Papua Selatan",
+            "capital": "Merauke",
+            "description": "Memiliki perpaduan rasa asam, manis dan gurih makanan khas Papua Selatan ini menjadi salah satu hidangan yang ada saat perayaan seperti lebaran ataupun natal. Terbuat dari labu kuning yang sudah matang dengan struktur buah yang keras dan dikukus lebih kurang 30 menit atau buah sudah masak dengan sempurna. Ditambah dengan bumbu seperti sereh, jahe, asam jawa yang dihaluskan dan dicampurkan dengan ikan kakap yang telah direbus. Rasanya sangat nikmat dan menjadi santapan yang lezat bagi masyarakat Papua.",
+            "pictureId": "https://img-global.cpcdn.com/recipes/acd0b1ef8a6b78e7/1200x630cq70/photo.jpg",
+            "name": "Labu Ikan Kuah Kuning"
+        },
+        {
+            "id": "38",
+            "province": "Papua Barat Daya",
+            "capital": "Sorong",
+            "description": "Ulat Sagu banyak tersedia di daerah Sorong, Papua Barat Daya, terutama di daerah pedalaman. Tahukah Anda bahwa ulat sagu termasuk makanan yang laris manis bagi masyarakat lokal. Pasalnya, selain enak rasanya, makanan khas ini juga bergizi dan teruji di laboratorium akan manfaat kesehatannya.",
+            "pictureId": "https://asset-2.tstatic.net/papua/foto/bank/images/ulat-sagu-di-sentani.jpg",
+            "name": "Ulat Sagu"
+        }
+    ]
+}   

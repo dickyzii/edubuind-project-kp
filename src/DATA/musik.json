@@ -1,0 +1,308 @@
+{
+    "musik": [
+        {
+            "id": "1",
+            "province": "Nanggroe Aceh Darussalam",
+            "capital": "Banda Aceh",
+            "description": "Serune Kalee adalah alat musik tradisional Aceh yang dimainkan dengan cara ditiup. Alat musik ini sering digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://blog2.kelaspintar.id/blog/wp-content/uploads/2020/12/serune-kalee.jpg",
+            "name": "Serune Kalee"
+        },
+        {
+            "id": "2",
+            "province": "Sumatera Utara",
+            "capital": "Medan",
+            "description": "Gondang Sabangunan adalah alat musik tradisional dari masyarakat Batak, Sumatera Utara. Alat musik ini terdiri dari berbagai instrumen perkusi dan dimainkan dalam upacara adat dan acara-acara penting.",
+            "pictureId": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/31/Alat-musik-Gondang-Sabangunan-1791635896.jpg",
+            "name": "Gondang Sabangunan"
+        },
+        {
+            "id": "3",
+            "province": "Sumatera Selatan",
+            "capital": "Palembang",
+            "description": "Gendang Melayu adalah alat musik tradisional dari Sumatera Selatan yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam pertunjukan musik dan tari.",
+            "pictureId": "https://museummusikindonesia.id/wp-content/uploads/2021/02/gendang-melayu.jpeg",
+            "name": "Gendang Melayu"
+        },
+        {
+            "id": "4",
+            "province": "Sumatera Barat",
+            "capital": "Padang",
+            "description": "Saluang adalah alat musik tiup tradisional dari Sumatera Barat. Alat musik ini terbuat dari bambu tipis dan sering dimainkan dalam pertunjukan musik tradisional Minangkabau.",
+            "pictureId": "https://museummusikindonesia.id/wp-content/uploads/2021/02/saluang-1024x682.jpeg",
+            "name": "Saluang"
+        },
+        {
+            "id": "5",
+            "province": "Bengkulu",
+            "capital": "Bengkulu",
+            "description": "Doli-Doli adalah alat musik tradisional dari Bengkulu yang terbuat dari bambu. Alat musik ini dimainkan dengan cara dipukul dan digunakan dalam berbagai upacara adat.",
+            "pictureId": "https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/24/2021/09/gambus-2.jpg",
+            "name": "Doli-Doli"
+        },
+        {
+            "id": "6",
+            "province": "Riau",
+            "capital": "Pekanbaru",
+            "description": "Gambus adalah alat musik tradisional dari Riau yang dipengaruhi oleh budaya Arab. Alat musik petik ini sering dimainkan dalam pertunjukan musik tradisional Melayu.",
+            "pictureId": "https://i.pinimg.com/736x/32/18/78/32187809b66d3e125d2c037132758358.jpg",
+            "name": "Gambus"
+        },
+        {
+            "id": "7",
+            "province": "Kepulauan Riau",
+            "capital": "Tanjung Pinang",
+            "description": "Kompang adalah alat musik tradisional dari Kepulauan Riau yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam upacara adat dan acara-acara keagamaan.",
+            "pictureId": "https://p.turbosquid.com/ts-thumb/fv/NXtkZO/MdoJ09pw/shader/png/1425629558/1920x1080/fit_q87/ccb1682581af3610d4886740583901cde42f154b/shader.jpg",
+            "name": "Kompang"
+        },
+        {
+            "id": "8",
+            "province": "Jambi",
+            "capital": "Jambi",
+            "description": "Cangor adalah alat musik tradisional dari Jambi yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://asset.kompas.com/crops/p8Qu7vXnXqAhta7JLeNilcbLHSc=/0x3:610x410/750x500/data/photo/2021/05/07/6094d17feb035.png",
+            "name": "Cangor"
+        },
+        {
+            "id": "9",
+            "province": "Lampung",
+            "capital": "Bandar Lampung",
+            "description": "Gambang Lampung adalah alat musik tradisional dari Lampung yang terbuat dari bambu. Alat musik ini dimainkan dengan cara dipukul dan digunakan dalam berbagai upacara adat.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2020/10/Gamolan_menjadi_salah_satu_identitas_khas_dari_musik_tradisional_Lampung_2.jpg",
+            "name": "Gambang Lampung"
+        },
+        {
+            "id": "10",
+            "province": "Bangka Belitung",
+            "capital": "Pangkal Pinang",
+            "description": "Dambus adalah alat musik tradisional dari Bangka Belitung yang dimainkan dengan cara dipetik. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://wonderful.pangkalpinangkota.go.id/wp-content/uploads/2020/10/PicsArt_02-17-10.23.27-780x470.jpg",
+            "name": "Dambus"
+        },
+        {
+            "id": "11",
+            "province": "Kalimantan Barat",
+            "capital": "Pontianak",
+            "description": "Sape' adalah alat musik tradisional dari suku Dayak di Kalimantan Barat. Alat musik ini dimainkan dengan cara dipetik dan sering digunakan dalam upacara adat.",
+            "pictureId": "https://pariwisataindonesia.id/wp-content/uploads/2020/10/Sape-foto-by-infopublik.id_.jpeg",
+            "name": "Sape"
+        },
+        {
+            "id": "12",
+            "province": "Kalimantan Timur",
+            "capital": "Samarinda",
+            "description": "Sampe adalah alat musik tradisional dari Kalimantan Timur yang dimainkan dengan cara dipetik. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://www.alatmusik.id/users_media/3/Alat%20Musik%20Sampe.jpg",
+            "name": "Sampe"
+        },
+        {
+            "id": "13",
+            "province": "Kalimantan Selatan",
+            "capital": "Banjarbaru",
+            "description": "Panting adalah alat musik tradisional dari Kalimantan Selatan yang dimainkan dengan cara dipetik. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://www.teras7.com/wp-content/uploads/2021/11/IMG-20211120-WA0004-1.jpg",
+            "name": "Panting"
+        },
+        {
+            "id": "14",
+            "province": "Kalimantan Tengah",
+            "capital": "Palangkaraya",
+            "description": "Gendang Tiwah adalah alat musik tradisional dari Kalimantan Tengah yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam upacara adat Dayak.",
+            "pictureId": "https://i0.wp.com/visit.kalteng.go.id/wp-content/uploads/2023/11/Gandang-Tatau.jpg?w=1220&ssl=1",
+            "name": "Gendang Tiwah"
+        },
+        {
+            "id": "15",
+            "province": "Kalimantan Utara",
+            "capital": "Tanjung Selor",
+            "description": "Tuma adalah alat musik tradisional dari Kalimantan Utara yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://khatulistiwahits.com/wp-content/uploads/2023/07/Alat-musik-unik-1.webp",
+            "name": "Tuma"
+        },
+        {
+            "id": "16",
+            "province": "Banten",
+            "capital": "Serang",
+            "description": "Angklung Buhun adalah alat musik tradisional dari Banten yang terbuat dari bambu. Alat musik ini dimainkan dengan cara digoyangkan dan digunakan dalam berbagai upacara adat.",
+            "pictureId": "https://jadesta.kemenparekraf.go.id/imgpost/74152.jpg",
+            "name": "Angklung Buhun"
+        },
+        {
+            "id": "17",
+            "province": "DKI Jakarta",
+            "capital": "Jakarta",
+            "description": "Tanjidor adalah alat musik tradisional dari Jakarta yang dimainkan dalam orkestra. Alat musik ini sering digunakan dalam upacara adat dan acara-acara besar.",
+            "pictureId": "https://pict-a.sindonews.net/dyn/850/pena/news/2023/01/17/173/998285/asal-usul-tanjidor-bekasi-dari-mantan-budak-yang-membentuk-kelompok-kesenian-okf.jpg",
+            "name": "Tanjidor"
+        },
+        {
+            "id": "18",
+            "province": "Jawa Barat",
+            "capital": "Bandung",
+            "description": "Angklung adalah alat musik tradisional dari Jawa Barat yang terbuat dari bambu. Alat musik ini dimainkan dengan cara digoyangkan dan sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://asset.kompas.com/crops/B3cyN9__cXatiqyoRlvaXzfHJb4=/0x0:0x0/750x500/data/photo/buku/6371f3fb88447.jpg",
+            "name": "Angklung"
+        },
+        {
+            "id": "19",
+            "province": "Jawa Tengah",
+            "capital": "Semarang",
+            "description": "Gamelan adalah alat musik tradisional dari Jawa Tengah yang dimainkan dalam ansambel. Alat musik ini terdiri dari berbagai instrumen perkusi dan digunakan dalam pertunjukan musik dan tari.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Traditional_indonesian_instruments02.jpg/800px-Traditional_indonesian_instruments02.jpg",
+            "name": "Gamelan"
+        },
+        {
+            "id": "20",
+            "province": "DI Yogyakarta",
+            "capital": "Yogyakarta",
+            "description": "Gendhing adalah alat musik tradisional dari Yogyakarta yang dimainkan dalam ansambel gamelan. Alat musik ini terdiri dari berbagai instrumen perkusi dan digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://topjabar.co/wp-content/uploads/2020/10/93653-gendhing-gati-mardika.jpg",
+            "name": "Gendhing"
+        },
+        {
+            "id": "21",
+            "province": "Jawa Timur",
+            "capital": "Surabaya",
+            "description": "Bonang adalah alat musik tradisional dari Jawa Timur yang merupakan bagian dari ansambel gamelan. Alat musik ini terdiri dari deretan gong kecil yang dimainkan dengan cara dipukul.",
+            "pictureId": "https://akcdn.detik.net.id/visual/2023/01/20/ilustrasi-gamelan-jawa-2_169.jpeg?w=480&q=90",
+            "name": "Bonang"
+        },
+        {
+            "id": "22",
+            "province": "Bali",
+            "capital": "Denpasar",
+            "description": "Ceng-ceng adalah alat musik tradisional dari Bali yang terbuat dari logam. Alat musik ini dimainkan dengan cara dipukul dan digunakan dalam ansambel gamelan Bali.",
+            "pictureId": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//107/MTA-39299732/made_sukawati_alat_musik_ceng_ceng_besi_bali_cengceng_full01_jumzqmuy.jpg",
+            "name": "Ceng-ceng"
+        },
+        {
+            "id": "23",
+            "province": "Nusa Tenggara Barat",
+            "capital": "Mataram",
+            "description": "Gendang Beleq adalah alat musik tradisional dari Nusa Tenggara Barat yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/7/71/Raiyani_Muharramah_Gendang_beleq_DSCF8502a.jpg",
+            "name": "Gendang Beleq"
+        },
+        {
+            "id": "24",
+            "province": "Nusa Tenggara Timur",
+            "capital": "Kupang",
+            "description": "Sasando adalah alat musik tradisional dari Nusa Tenggara Timur yang dimainkan dengan cara dipetik. Alat musik ini terbuat dari bambu dan daun lontar.",
+            "pictureId": "https://api2.kemenparekraf.go.id/storage/app/resources/image_artikel/Mengenal%20Alat%20Musik%20Sasando%20yang%20Mendunia_Shutterstock%201382853482_Raiyani%20Muharramah.jpg",
+            "name": "Sasando"
+        },
+        {
+            "id": "25",
+            "province": "Gorontalo",
+            "capital": "Gorontalo",
+            "description": "Polopalo adalah alat musik tradisional dari Gorontalo yang dimainkan dengan cara dipukul. Alat musik ini terbuat dari bambu dan digunakan dalam berbagai upacara adat.",
+            "pictureId": "https://infopublik.id/resources/album/seni-budaya/Memainkan_Polopalo_compressed.JPG",
+            "name": "Polopalo"
+        },
+        {
+            "id": "26",
+            "province": "Sulawesi Utara",
+            "capital": "Manado",
+            "description": "Kolintang adalah alat musik tradisional dari Sulawesi Utara yang terbuat dari kayu. Alat musik ini dimainkan dengan cara dipukul dan digunakan dalam berbagai pertunjukan musik.",
+            "pictureId": "https://awsimages.detik.net.id/community/media/visual/2022/10/05/ilustrasi-alat-musik-kolintang_169.jpeg?w=1200",
+            "name": "Kolintang"
+        },
+        {
+            "id": "27",
+            "province": "Sulawesi Tengah",
+            "capital": "Palu",
+            "description": "Ganda adalah alat musik tradisional dari Sulawesi Tengah yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://tempat.org/wp-content/uploads/2023/03/Gimba-1024x546.jpg",
+            "name": "Ganda"
+        },
+        {
+            "id": "28",
+            "province": "Sulawesi Selatan",
+            "capital": "Makassar",
+            "description": "Keso-keso adalah alat musik tradisional dari Sulawesi Selatan yang dimainkan dengan cara digesek. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://pdbifiles.nos.jkt-1.neo.id/files/2018/05/31/oakirbin_Keso-keso.jpg",
+            "name": "Keso-keso"
+        },
+        {
+            "id": "29",
+            "province": "Sulawesi Tenggara",
+            "capital": "Kendari",
+            "description": "Santu adalah alat musik tradisional dari Sulawesi Tenggara yang dimainkan dengan cara dipetik. Alat musik ini sering digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://lh4.googleusercontent.com/proxy/-tEAbJhoRg5iay8bznwYEzM2Pb3ZehGDzDPUNN7e39IbfUJxnAz4swaH5nnh5yQ2ZTsZr6Mq4eKfDaOgjd6gfSYPBgKHinTK-I97RGUkO0Mr5he-r2ucTCLjbTA3FO6eHBB6Ea_J",
+            "name": "Santu"
+        },
+        {
+            "id": "30",
+            "province": "Sulawesi Barat",
+            "capital": "Mamuju",
+            "description": "Calong adalah alat musik tradisional dari Sulawesi Barat yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://pariwisataindonesia.id/wp-content/uploads/2020/11/Calong-by-referensi.data_.kemdikbud.go_.id_.jpg",
+            "name": "Calong"
+        },
+        {
+            "id": "31",
+            "province": "Maluku",
+            "capital": "Ambon",
+            "description": "Totobuang adalah alat musik tradisional dari Maluku yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2020/10/tifa_totobuang_1200.jpg",
+            "name": "Totobuang"
+        },
+        {
+            "id": "32",
+            "province": "Maluku Utara",
+            "capital": "Sofifi",
+            "description": "Jukulele adalah alat musik tradisional dari Maluku Utara yang dimainkan dengan cara dipetik. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://imgx.sonora.id/crop/0x0:0x0/x/photo/2023/07/12/alat-musik-maluku4-300x188jpg-20230712094322.jpg",
+            "name": "Jukulele"
+        },
+        {
+            "id": "33",
+            "province": "Papua",
+            "capital": "Jayapura",
+            "description": "Tifa adalah alat musik tradisional dari Papua yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://awsimages.detik.net.id/community/media/visual/2020/09/10/alat-musik-tradisional-papua-tifa_43.jpeg?w=600&q=90",
+            "name": "Tifa"
+        },
+        {
+            "id": "34",
+            "province": "Papua Barat",
+            "capital": "Manokwari",
+            "description": "Pikon adalah alat musik tradisional dari Papua Barat yang dimainkan dengan cara ditiup. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2020/10/pikon_1200.jpg",
+            "name": "Pikon"
+        },
+        {
+            "id": "35",
+            "province": "Papua Tengah",
+            "capital": "Nabire",
+            "description": "Fuu adalah alat musik tiup tradisional dari Papua Tengah yang digunakan dalam berbagai upacara adat dan pertunjukan seni.",
+            "pictureId": "https://indonesiakaya.com/wp-content/uploads/2020/10/fuu_1200.jpg",
+            "name": "Fuu"
+        },
+        {
+            "id": "36",
+            "province": "Papua Pegunungan",
+            "capital": "Wamena",
+            "description": "Pikon adalah alat musik tradisional dari Papua Pegunungan yang terbuat dari bambu dan dimainkan dengan cara ditiup. Alat musik ini menghasilkan suara khas dan digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_man_is_playing_Pikon%2C_Papuan_traditional_music_instrument.jpg",
+            "name": "Pikon"
+        },
+        {
+            "id": "37",
+            "province": "Papua Selatan",
+            "capital": "Merauke",
+            "description": "Krombi adalah alat musik tradisional dari Papua Selatan yang dimainkan dengan cara dipetik. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
+            "pictureId": "https://asset.kompas.com/crops/Ai-qTITnnuibyHyi1fh_HSrlCO8=/110x0:911x534/375x240/data/photo/2021/05/11/609a88d76d343.jpg",
+            "name": "Krombi"
+        },
+        {
+            "id": "38",
+            "province": "Papua Barat Daya",
+            "capital": "Sorong",
+            "description": "Atowo adalah alat musik tradisional dari Papua Barat Daya yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam upacara adat dan pertunjukan seni.",
+            "pictureId": "https://i0.wp.com/www.romadecade.org/wp-content/uploads/2021/11/alat-musik-tradisional-Papua-2.jpg?fit=750%2C600&ssl=1",
+            "name": "Atowo"
+        }
+    ]
+}
