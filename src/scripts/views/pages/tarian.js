@@ -14,7 +14,9 @@ const TarianPage = {
             <h2 tabindex="0">Provinsi ${tarian.province}</h2>
             <div class="card-content">
               <h3 tabindex="0">${tarian.name}</h3>
-              <img src="${tarian.pictureId}" alt="${tarian.name}">
+              <a href="https://www.shutterstock.com/id/search/${tarian.name.replace(/\s+/g, '-').toLowerCase()}">
+                <img src="${tarian.pictureId}" alt="${tarian.name}">
+              </a>
               <p tabindex="0">${tarian.description}</p>
             </div>
           </div>
