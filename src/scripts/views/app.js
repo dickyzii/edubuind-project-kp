@@ -1,3 +1,4 @@
+// src/app.js
 import DrawerInitiator from '../utils/drawer-initiator';
 import UrlParser from '../routes/url-parser';
 import routes from '../routes/routes';
@@ -21,16 +22,23 @@ class App {
   async renderPage() {
     const url = UrlParser.parseActiveUrlWithCombiner();
     const page = routes[url];
-    this._content.innerHTML = await page.render();
-    await page.afterRender();
+    if (page) {
+      this._content.innerHTML = await page.render();
+      await page.afterRender();
 
-    window.scrollTo(0, 0);
+      window.scrollTo(0, 0);
 
-    const skipLinkElement = document.querySelector('.skip-link');
-    skipLinkElement.addEventListener('click', (event) => {
-      event.preventDefault();
-      document.querySelector('#mainContent').focus();
-    });
+      const skipLinkElement = document.querySelector('.skip-link');
+      skipLinkElement.addEventListener('click', (event) => {
+        event.preventDefault();
+        document.querySelector('#mainContent').focus();
+      });
+    } else {
+      // Handle page not found or redirect to default page
+      console.error('Page not found:', url);
+      // Example: Redirect to default page
+      // window.location.hash = '/';
+    }
   }
 }
 

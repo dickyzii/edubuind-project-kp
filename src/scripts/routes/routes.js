@@ -5,6 +5,7 @@ import Adat from '../views/pages/adat';
 import Pakaian from '../views/pages/pakaian';
 import Kuliner from '../views/pages/kuliner';
 import Bahasa from '../views/pages/bahasa';
+import GalleryPage from '../views/pages/gallery/gallery-tarian'; // Ensure this path is correct
 
 const routes = {
   '/': HomePage, // default page
@@ -14,6 +15,7 @@ const routes = {
   '/pakaian': Pakaian,
   '/kuliner': Kuliner,
   '/bahasa': Bahasa,
+  '/gallery/:id': GalleryPage, // fixed route
 };
 
 export default routes;

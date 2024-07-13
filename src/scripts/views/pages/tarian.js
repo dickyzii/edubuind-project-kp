@@ -1,3 +1,4 @@
+// src/views/pages/tarian.js
 import tarianData from '../../../DATA/tarian.json';
 
 const TarianPage = {
@@ -14,7 +15,9 @@ const TarianPage = {
             <h2 tabindex="0">Provinsi ${tarian.province}</h2>
             <div class="card-content">
               <h3 tabindex="0">${tarian.name}</h3>
-              <img src="${tarian.pictureId}" alt="${tarian.name}">
+              <a href="#/gallery-tarian/${tarian.id}">
+                <img src="${tarian.pictureId}" alt="${tarian.name}">
+              </a>
               <p tabindex="0">${tarian.description}</p>
             </div>
           </div>
