@@ -3,17 +3,17 @@ import tarianData from '../../../../DATA/galleryjson/saman.json';
 
 const TarianPage = {
   async render() {
-    const tarisamanList = tarianData.tarisaman;
+    const tarianList = tarianData.tarian;
 
     return `
       <div tabindex="0" class="title">
         <h1>Galeri Tari Saman di Indonesia</h1>
       </div>
       <div class="container">
-        ${tarisamanList.map((tarisaman, index) => `
+        ${tarianList.map((tarian, index) => `
           <div class="gallery-container">
             <div class="image-link" data-index="${index}">
-              <img src="${tarisaman.pictureId}" alt="Tari Saman ${index + 1}">
+              <img src="${tarian.pictureId}" alt="Tari Saman ${index + 1}">
             </div>
           </div>
         `).join('')}
