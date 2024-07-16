@@ -27,6 +27,7 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "google-translate-api": "^2.3.0",
     "regenerator-runtime": "^0.14.1"
   }
 }

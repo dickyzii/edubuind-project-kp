@@ -5,17 +5,17 @@ import Adat from '../views/pages/adat';
 import Pakaian from '../views/pages/pakaian';
 import Kuliner from '../views/pages/kuliner';
 import Bahasa from '../views/pages/bahasa';
-import GalleryPage from '../views/pages/gallery/gallery-tarian'; // Ensure this path is correct
+import TariSamanGalleryPage from '../views/pages/gallery/tari-saman'; // Ubah nama TarianPage menjadi TariSamanGalleryPage untuk menghindari duplikasi
 
 const routes = {
-  '/': HomePage, // default page
+  '/': HomePage, // Halaman default
   '/tarian': TarianPage,
   '/musik': AlatMusik,
   '/adat': Adat,
   '/pakaian': Pakaian,
   '/kuliner': Kuliner,
   '/bahasa': Bahasa,
-  '/gallery/:id': GalleryPage, // fixed route
+  '/gallery/tari-saman': TariSamanGalleryPage, // Halaman galeri Tari Saman
 };
 
 export default routes;

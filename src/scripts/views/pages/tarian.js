@@ -15,14 +15,11 @@ const TarianPage = {
             <h2 tabindex="0">Provinsi ${tarian.province}</h2>
             <div class="card-content">
               <h3 tabindex="0">${tarian.name}</h3>
-<<<<<<< HEAD
-              <a href="#/gallery-tarian/${tarian.id}">
-=======
-              <a href="https://www.shutterstock.com/id/search/${tarian.name.replace(/\s+/g, '-').toLowerCase()}">
->>>>>>> e809acee36bf470dafadfa23cd9091be72418edf
+              <a class="image-link" data-name="${tarian.name.replace(/\s+/g, '-').toLowerCase()}" href="#">
                 <img src="${tarian.pictureId}" alt="${tarian.name}">
               </a>
               <p tabindex="0">${tarian.description}</p>
+              <p tabindex="0">Ibu Kota: ${tarian.capital}</p>
             </div>
           </div>
         `).join('')}
@@ -31,7 +28,15 @@ const TarianPage = {
   },
 
   async afterRender() {
-    // Implementasi setelah render di sini
+    // Tambahkan event listener pada link gambar
+    const imageLinks = document.querySelectorAll('.image-link');
+    imageLinks.forEach((link) => {
+      link.addEventListener('click', (event) => {
+        event.preventDefault();
+        const tarianName = event.currentTarget.dataset.name;
+        window.location.hash = `#/gallery/${tarianName}`;
+      });
+    });
   },
 };
 
