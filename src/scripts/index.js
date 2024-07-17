@@ -1,6 +1,7 @@
 import 'regenerator-runtime';
 import '../styles/main.css';
 import '../styles/responsive.css';
+import '../styles/translate-page.css';
 import './views/pages/home';
 import App from './views/app';
 

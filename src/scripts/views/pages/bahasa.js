@@ -208,8 +208,12 @@ const Bahasa = {
       <div class="card">
         <h2>Masukkan Teks</h2>
         <textarea id="inputText" rows="4" cols="50" placeholder="Masukkan teks di sini"></textarea>
+        <br>
+        <br>
         <h2>Sebelum Diterjemahkan</h2>
         <div id="beforeTranslation"></div>
+        <br>
+        <br>
         <label for="targetLanguage">Pilih Bahasa Tujuan:</label>
         <select id="targetLanguage">${languageOptions}</select>
         <button id="translateButton">Terjemahkan</button>
