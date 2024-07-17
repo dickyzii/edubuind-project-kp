@@ -1,4 +1,4 @@
-import tarianData from '../../../../DATA/galleryjson/andun.json';
+import tarianData from '../../../../DATA/galleryjson/makyong.json';
 
 const TarianPage = {
   async render() {
@@ -6,7 +6,7 @@ const TarianPage = {
 
     return `
       <div tabindex="0" class="title">
-        <h1>Galeri Tari Andun di Indonesia</h1>
+        <h1>Galeri Tari Makyong di Indonesia</h1>
       </div>
       <div class="container">
         ${tarianList.map((tarian, index) => `
@@ -19,51 +19,51 @@ const TarianPage = {
       </div>
       <div tabindex="0" class="deskripsi">
         <div class="deskripsi-container">
-          <h2>Tari Andun: Keindahan Gerakan dan Makna Budaya dari Bengkulu</h2>
+          <h2>Tari Makyong: Warisan Seni Pertunjukan Melayu yang Memukau</h2>
           <p>
-            Tari Andun adalah salah satu warisan budaya Indonesia yang kaya akan keindahan gerakan dan makna mendalam di balik setiap langkahnya. Berakar di tanah Bengkulu, tarian ini tidak hanya menghibur tetapi juga mengajarkan nilai-nilai tradisional dan spiritual kepada masyarakatnya.
+            Tari Makyong adalah salah satu bentuk seni pertunjukan tradisional yang berasal dari budaya Melayu, khususnya berkembang di wilayah Riau dan Kepulauan Riau. Tarian ini menggabungkan unsur tari, musik, dan drama yang menceritakan berbagai kisah legenda dan mitos yang diwariskan turun-temurun.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Asal-usul dan Sejarah</h3>
+          <h3>Sejarah dan Asal-usul</h3>
           <p>
-            Tari Andun berasal dari masyarakat suku Rejang di Bengkulu, diperkirakan berasal dari zaman Kerajaan Rejang. Awalnya, tarian ini digunakan dalam upacara adat dan ritual keagamaan. Gerakannya yang lincah dan atraktif, disertai dengan irama dan musik khas Tari Andun, menjadi daya tarik utama dalam pertunjukan ini. Tari Andun tidak hanya sebagai bentuk seni, tetapi juga memuat nilai-nilai moral dan keagamaan yang kuat dalam setiap gerakannya.
+            Tari Makyong memiliki akar sejarah yang panjang, diperkirakan sudah ada sejak zaman Kerajaan Melayu Kuno. Tarian ini awalnya dipentaskan sebagai bentuk ritual pemujaan kepada roh nenek moyang dan dewa-dewi. Seiring perkembangan zaman, Tari Makyong menjadi hiburan rakyat yang sarat akan pesan moral dan nilai budaya.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Gerakan yang Lincah dan Simbolis</h3>
+          <h3>Elemen Seni Pertunjukan</h3>
           <p>
-            Tari Andun dikenal dengan gerakan tangan dan kaki yang cepat dan lincah, yang menuntut koordinasi yang sangat baik antara para penari. Gerakan ini tidak hanya memukau secara visual, tetapi juga mengandung makna simbolis yang dalam. Beberapa gerakan mencerminkan kehidupan sehari-hari, sementara yang lain menggambarkan kisah-kisah epik atau nilai-nilai kearifan lokal. Setiap gerakan diikuti dengan musik Tari Andun yang mengiringi, menciptakan harmoni yang memukau di antara penari dan penonton.
+            Tari Makyong adalah gabungan dari seni tari, musik, dan drama. Para penari, yang juga berperan sebagai aktor, mengenakan kostum tradisional yang indah dan penuh warna. Musik pengiring yang dimainkan dengan alat musik tradisional seperti rebab, gendang, dan serunai menciptakan suasana magis yang memukau penonton.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Makna Budaya dan Spiritual</h3>
+          <h3>Makna Simbolis dan Filosofis</h3>
           <p>
-            Tari Andun tidak hanya sebagai pertunjukan seni semata, tetapi juga memiliki makna yang dalam dalam konteks budaya dan spiritual Rejang. Di banyak kesempatan, tarian ini menjadi bagian integral dari acara adat seperti pernikahan, upacara keagamaan, atau festival budaya. Melalui gerakan dan musik Tari Andun yang kuat, tarian ini tidak hanya merayakan keberagaman budaya Rejang tetapi juga memperkuat identitas masyarakatnya.
+            Setiap gerakan dalam Tari Makyong memiliki makna simbolis yang dalam, mencerminkan berbagai aspek kehidupan dan alam semesta. Drama yang dipentaskan sering kali mengangkat tema-tema tentang kepahlawanan, cinta, dan perjuangan hidup, yang disampaikan dengan cara yang menghibur sekaligus mendidik.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Kehadiran dalam Kehidupan Masyarakat Rejang</h3>
+          <h3>Peran dalam Kehidupan Masyarakat</h3>
           <p>
-            Kehadiran Tari Andun dalam kehidupan sehari-hari masyarakat Rejang menunjukkan betapa pentingnya warisan budaya ini dalam mempertahankan identitas lokal. Generasi muda diajak untuk belajar dan menghargai tarian ini melalui pendidikan formal dan informal, serta melalui pelatihan komunitas. Hal ini bertujuan untuk memastikan bahwa nilai-nilai tradisional Tari Andun terus hidup dan berkembang di tengah arus globalisasi dan modernisasi.
+            Tari Makyong tidak hanya sebagai bentuk hiburan, tetapi juga sebagai media pendidikan dan pelestarian nilai-nilai budaya Melayu. Tarian ini sering dipentaskan dalam berbagai upacara adat, festival budaya, dan acara-acara penting lainnya. Melalui Tari Makyong, generasi muda diajak untuk mengenal dan menghargai warisan budaya nenek moyang mereka.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Pentingnya Pemeliharaan dan Pendidikan</h3>
+          <h3>Pentingnya Pelestarian dan Pengajaran</h3>
           <p>
-            Upaya pemeliharaan dan pengajaran Tari Andun menjadi sangat penting untuk melestarikan warisan budaya yang berharga ini. Banyak sekolah dan lembaga seni di Bengkulu aktif mengajarkan tarian ini kepada generasi muda, dengan harapan mereka akan menjadi pelanjut dalam melestarikan dan mengembangkan seni budaya Rejang. Pendidikan formal juga mengintegrasikan Tari Andun sebagai bagian dari kurikulum budaya, memastikan bahwa pengetahuan akan warisan ini tidak punah.
+            Pelestarian Tari Makyong menjadi tanggung jawab bersama, baik pemerintah, lembaga budaya, maupun masyarakat. Upaya pelestarian ini dilakukan melalui pendidikan formal di sekolah-sekolah, pelatihan di sanggar-sanggar seni, serta promosi dan pementasan di tingkat nasional dan internasional. Dengan demikian, Tari Makyong diharapkan tetap hidup dan berkembang sebagai salah satu kekayaan budaya Indonesia.
           </p>
         </div>
 
         <div class="deskripsi-container">
           <h3>Kesimpulan</h3>
           <p>
-            Tari Andun adalah simbol keindahan, kekuatan, dan kekayaan budaya dari Bengkulu. Dengan gerakan yang lincah, makna yang dalam, dan kehadiran yang tak tergantikan dalam kehidupan masyarakat Rejang, tarian ini tidak hanya memikat hati tetapi juga memperkuat ikatan sosial dan identitas budaya. Melalui upaya pemeliharaan, pengajaran, dan pengembangan, Tari Andun akan terus hidup dan berbicara kepada generasi mendatang tentang keindahan warisan budaya Rejang yang begitu berharga.
+            Tari Makyong adalah cerminan kekayaan seni dan budaya Melayu yang perlu dijaga dan dilestarikan. Melalui gerakan yang indah, musik yang memikat, dan drama yang menghibur, Tari Makyong menyampaikan pesan-pesan moral dan nilai-nilai kehidupan yang universal. Upaya pelestarian dan pengajaran Tari Makyong harus terus dilakukan agar warisan budaya ini tetap hidup dan dapat dinikmati oleh generasi mendatang.
           </p>
         </div>
       </div>
