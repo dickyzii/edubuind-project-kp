@@ -116,9 +116,9 @@
             "id": "15",
             "province": "Kalimantan Utara",
             "capital": "Tanjung Selor",
-            "description": "Tuma adalah alat musik tradisional dari Kalimantan Utara yang dimainkan dengan cara dipukul. Alat musik ini sering digunakan dalam pertunjukan musik tradisional.",
-            "pictureId": "https://khatulistiwahits.com/wp-content/uploads/2023/07/Alat-musik-unik-1.webp",
-            "name": "Tuma"
+            "description": "Kecapi adalah alat musik petik tradisional yang terbuat dari kayu dengan senar yang dipetik untuk menghasilkan melodi. Kecapi biasanya dimainkan dalam pertunjukan musik tradisional di Kalimantan Utara dan memainkan peran penting dalam berbagai upacara adat dan ritual. Suara lembut dan melodius dari Kecapi memberikan nuansa yang khas dalam musik tradisional.",
+            "pictureId": "https://www.blibli.com/friends-backend/wp-content/uploads/2021/04/Kecapi.jpg",
+            "name": "Kecapi"
         },
         {
             "id": "16",
@@ -197,7 +197,7 @@
             "province": "Gorontalo",
             "capital": "Gorontalo",
             "description": "Polopalo adalah alat musik tradisional dari Gorontalo yang dimainkan dengan cara dipukul. Alat musik ini terbuat dari bambu dan digunakan dalam berbagai upacara adat.",
-            "pictureId": "https://infopublik.id/resources/album/seni-budaya/Memainkan_Polopalo_compressed.JPG",
+            "pictureId": "https://www.beritadaerah.co.id/wp-content/uploads/2023/01/Memainkan_Polopalo_compressed.jpeg",
             "name": "Polopalo"
         },
         {

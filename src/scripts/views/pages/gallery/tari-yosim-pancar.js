@@ -1,4 +1,4 @@
-import tarianData from '../../../../DATA/galleryjson/andun.json';
+import tarianData from '../../../../DATA/galleryjson/yosimpancar.json';
 
 const TarianPage = {
   async render() {
@@ -6,64 +6,64 @@ const TarianPage = {
 
     return `
       <div tabindex="0" class="title">
-        <h1>Galeri Tari Andun di Indonesia</h1>
+        <h1>Galeri Tari Yosim Pancar di Indonesia</h1>
       </div>
       <div class="container">
         ${tarianList.map((tarian, index) => `
           <div class="gallery-container">
             <div class="image-link" data-index="${index}">
-              <img src="${tarian.pictureId}" alt="Tari Andun ${index + 1}">
+              <img src="${tarian.pictureId}" alt="Tari Yosim Pancar ${index + 1}">
             </div>
           </div>
         `).join('')}
       </div>
       <div tabindex="0" class="deskripsi">
         <div class="deskripsi-container">
-          <h2>Tari Andun: Keindahan Gerakan dan Makna Budaya dari Bengkulu</h2>
+          <h2>Tari Yosim Pancar: Ekspresi Dinamis dari Papua</h2>
           <p>
-            Tari Andun adalah salah satu warisan budaya Indonesia yang kaya akan keindahan gerakan dan makna mendalam di balik setiap langkahnya. Berakar di tanah Bengkulu, tarian ini tidak hanya menghibur tetapi juga mengajarkan nilai-nilai tradisional dan spiritual kepada masyarakatnya.
+            Tari Yosim Pancar adalah tarian tradisional yang berasal dari Papua. Tarian ini dikenal dengan gerakannya yang dinamis dan penuh semangat, mencerminkan keceriaan dan kebersamaan masyarakat Papua.
           </p>
         </div>
 
         <div class="deskripsi-container">
           <h3>Asal-usul dan Sejarah</h3>
           <p>
-            Tari Andun berasal dari masyarakat suku Rejang di Bengkulu, diperkirakan berasal dari zaman Kerajaan Rejang. Awalnya, tarian ini digunakan dalam upacara adat dan ritual keagamaan. Gerakannya yang lincah dan atraktif, disertai dengan irama dan musik khas Tari Andun, menjadi daya tarik utama dalam pertunjukan ini. Tari Andun tidak hanya sebagai bentuk seni, tetapi juga memuat nilai-nilai moral dan keagamaan yang kuat dalam setiap gerakannya.
+            Tari Yosim Pancar berasal dari daerah Papua dan merupakan perpaduan dari dua jenis tarian yaitu Tari Yosim dan Tari Pancar. Tarian ini sering ditampilkan dalam berbagai acara adat, perayaan, dan festival budaya di Papua.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Gerakan yang Lincah dan Simbolis</h3>
+          <h3>Gerakan dan Musik</h3>
           <p>
-            Tari Andun dikenal dengan gerakan tangan dan kaki yang cepat dan lincah, yang menuntut koordinasi yang sangat baik antara para penari. Gerakan ini tidak hanya memukau secara visual, tetapi juga mengandung makna simbolis yang dalam. Beberapa gerakan mencerminkan kehidupan sehari-hari, sementara yang lain menggambarkan kisah-kisah epik atau nilai-nilai kearifan lokal. Setiap gerakan diikuti dengan musik Tari Andun yang mengiringi, menciptakan harmoni yang memukau di antara penari dan penonton.
+            Tari Yosim Pancar ditandai dengan gerakan yang lincah dan dinamis. Gerakan tari ini diiringi oleh musik yang khas, menggunakan alat musik tradisional Papua seperti tifa dan suling. Setiap gerakan tari Yosim Pancar mencerminkan semangat kebersamaan dan kekompakan.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Makna Budaya dan Spiritual</h3>
+          <h3>Makna Budaya dan Simbolis</h3>
           <p>
-            Tari Andun tidak hanya sebagai pertunjukan seni semata, tetapi juga memiliki makna yang dalam dalam konteks budaya dan spiritual Rejang. Di banyak kesempatan, tarian ini menjadi bagian integral dari acara adat seperti pernikahan, upacara keagamaan, atau festival budaya. Melalui gerakan dan musik Tari Andun yang kuat, tarian ini tidak hanya merayakan keberagaman budaya Rejang tetapi juga memperkuat identitas masyarakatnya.
+            Tari Yosim Pancar memiliki makna yang mendalam dalam budaya Papua. Tarian ini tidak hanya sebagai hiburan tetapi juga sebagai cara untuk mempererat ikatan sosial dan menyatukan masyarakat dalam semangat kebersamaan. Melalui Tari Yosim Pancar, masyarakat Papua mengekspresikan rasa bangga dan cinta mereka terhadap budaya dan tradisi mereka.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Kehadiran dalam Kehidupan Masyarakat Rejang</h3>
+          <h3>Pertunjukan Modern</h3>
           <p>
-            Kehadiran Tari Andun dalam kehidupan sehari-hari masyarakat Rejang menunjukkan betapa pentingnya warisan budaya ini dalam mempertahankan identitas lokal. Generasi muda diajak untuk belajar dan menghargai tarian ini melalui pendidikan formal dan informal, serta melalui pelatihan komunitas. Hal ini bertujuan untuk memastikan bahwa nilai-nilai tradisional Tari Andun terus hidup dan berkembang di tengah arus globalisasi dan modernisasi.
+            Saat ini, Tari Yosim Pancar sering ditampilkan dalam berbagai acara pariwisata dan festival budaya, baik di Papua maupun di luar Papua. Tarian ini menjadi daya tarik bagi wisatawan yang ingin menyaksikan dan merasakan keunikan budaya Papua.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Pentingnya Pemeliharaan dan Pendidikan</h3>
+          <h3>Pentingnya Pemeliharaan dan Pelestarian</h3>
           <p>
-            Upaya pemeliharaan dan pengajaran Tari Andun menjadi sangat penting untuk melestarikan warisan budaya yang berharga ini. Banyak sekolah dan lembaga seni di Bengkulu aktif mengajarkan tarian ini kepada generasi muda, dengan harapan mereka akan menjadi pelanjut dalam melestarikan dan mengembangkan seni budaya Rejang. Pendidikan formal juga mengintegrasikan Tari Andun sebagai bagian dari kurikulum budaya, memastikan bahwa pengetahuan akan warisan ini tidak punah.
+            Untuk melestarikan Tari Yosim Pancar, banyak komunitas seni di Papua yang aktif mengajarkan tarian ini kepada generasi muda. Melalui pelatihan dan pertunjukan rutin, mereka berusaha untuk memastikan bahwa warisan budaya ini tetap hidup dan berkembang di tengah arus modernisasi.
           </p>
         </div>
 
         <div class="deskripsi-container">
           <h3>Kesimpulan</h3>
           <p>
-            Tari Andun adalah simbol keindahan, kekuatan, dan kekayaan budaya dari Bengkulu. Dengan gerakan yang lincah, makna yang dalam, dan kehadiran yang tak tergantikan dalam kehidupan masyarakat Rejang, tarian ini tidak hanya memikat hati tetapi juga memperkuat ikatan sosial dan identitas budaya. Melalui upaya pemeliharaan, pengajaran, dan pengembangan, Tari Andun akan terus hidup dan berbicara kepada generasi mendatang tentang keindahan warisan budaya Rejang yang begitu berharga.
+            Tari Yosim Pancar adalah simbol keceriaan dan kebersamaan dari Papua. Dengan gerakan yang dinamis dan musik yang meriah, tarian ini tidak hanya memikat hati tetapi juga memperkuat identitas budaya Papua. Melalui upaya pelestarian dan pengajaran, Tari Yosim Pancar akan terus hidup dan berbicara kepada generasi mendatang tentang keindahan dan semangat kebersamaan budaya Papua yang begitu berharga.
           </p>
         </div>
       </div>

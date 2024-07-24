@@ -1,4 +1,4 @@
-import tarianData from '../../../../DATA/galleryjson/andun.json';
+import tarianData from '../../../../DATA/galleryjson/dero.json';
 
 const TarianPage = {
   async render() {
@@ -6,64 +6,64 @@ const TarianPage = {
 
     return `
       <div tabindex="0" class="title">
-        <h1>Galeri Tari Andun di Indonesia</h1>
+        <h1>Galeri Tari Dero di Indonesia</h1>
       </div>
       <div class="container">
         ${tarianList.map((tarian, index) => `
           <div class="gallery-container">
             <div class="image-link" data-index="${index}">
-              <img src="${tarian.pictureId}" alt="Tari Andun ${index + 1}">
+              <img src="${tarian.pictureId}" alt="Tari Dero ${index + 1}">
             </div>
           </div>
         `).join('')}
       </div>
       <div tabindex="0" class="deskripsi">
         <div class="deskripsi-container">
-          <h2>Tari Andun: Keindahan Gerakan dan Makna Budaya dari Bengkulu</h2>
+          <h2>Tari Dero: Tarian Kebersamaan dari Sulawesi Tengah</h2>
           <p>
-            Tari Andun adalah salah satu warisan budaya Indonesia yang kaya akan keindahan gerakan dan makna mendalam di balik setiap langkahnya. Berakar di tanah Bengkulu, tarian ini tidak hanya menghibur tetapi juga mengajarkan nilai-nilai tradisional dan spiritual kepada masyarakatnya.
+            Tari Dero adalah tarian tradisional yang berasal dari Sulawesi Tengah, yang mencerminkan kebersamaan dan keakraban antarwarga. Tarian ini sering kali dipertunjukkan dalam acara-acara adat, perayaan, dan festival.
           </p>
         </div>
 
         <div class="deskripsi-container">
           <h3>Asal-usul dan Sejarah</h3>
           <p>
-            Tari Andun berasal dari masyarakat suku Rejang di Bengkulu, diperkirakan berasal dari zaman Kerajaan Rejang. Awalnya, tarian ini digunakan dalam upacara adat dan ritual keagamaan. Gerakannya yang lincah dan atraktif, disertai dengan irama dan musik khas Tari Andun, menjadi daya tarik utama dalam pertunjukan ini. Tari Andun tidak hanya sebagai bentuk seni, tetapi juga memuat nilai-nilai moral dan keagamaan yang kuat dalam setiap gerakannya.
+            Tari Dero berakar dari tradisi masyarakat Suku Kaili di Sulawesi Tengah. Tarian ini biasanya dipertunjukkan dalam lingkaran besar di mana para penari bergandengan tangan dan bergerak berirama mengikuti musik tradisional. Tari Dero sering kali dipertunjukkan dalam acara pernikahan, syukuran, dan festival budaya.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Gerakan yang Lincah dan Simbolis</h3>
+          <h3>Gerakan dan Musik</h3>
           <p>
-            Tari Andun dikenal dengan gerakan tangan dan kaki yang cepat dan lincah, yang menuntut koordinasi yang sangat baik antara para penari. Gerakan ini tidak hanya memukau secara visual, tetapi juga mengandung makna simbolis yang dalam. Beberapa gerakan mencerminkan kehidupan sehari-hari, sementara yang lain menggambarkan kisah-kisah epik atau nilai-nilai kearifan lokal. Setiap gerakan diikuti dengan musik Tari Andun yang mengiringi, menciptakan harmoni yang memukau di antara penari dan penonton.
+            Tari Dero memiliki gerakan yang sederhana namun penuh makna. Para penari bergerak melingkar dengan langkah-langkah yang teratur, menggambarkan kebersamaan dan keharmonisan. Musik yang mengiringi Tari Dero biasanya menggunakan alat musik tradisional seperti gendang, gong, dan seruling.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Makna Budaya dan Spiritual</h3>
+          <h3>Makna Budaya dan Sosial</h3>
           <p>
-            Tari Andun tidak hanya sebagai pertunjukan seni semata, tetapi juga memiliki makna yang dalam dalam konteks budaya dan spiritual Rejang. Di banyak kesempatan, tarian ini menjadi bagian integral dari acara adat seperti pernikahan, upacara keagamaan, atau festival budaya. Melalui gerakan dan musik Tari Andun yang kuat, tarian ini tidak hanya merayakan keberagaman budaya Rejang tetapi juga memperkuat identitas masyarakatnya.
+            Tari Dero tidak hanya sebagai hiburan, tetapi juga memiliki makna budaya dan sosial yang mendalam. Tarian ini mencerminkan nilai-nilai seperti kebersamaan, gotong royong, dan persaudaraan yang menjadi bagian dari kehidupan sehari-hari masyarakat Kaili.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Kehadiran dalam Kehidupan Masyarakat Rejang</h3>
+          <h3>Pertunjukan Modern</h3>
           <p>
-            Kehadiran Tari Andun dalam kehidupan sehari-hari masyarakat Rejang menunjukkan betapa pentingnya warisan budaya ini dalam mempertahankan identitas lokal. Generasi muda diajak untuk belajar dan menghargai tarian ini melalui pendidikan formal dan informal, serta melalui pelatihan komunitas. Hal ini bertujuan untuk memastikan bahwa nilai-nilai tradisional Tari Andun terus hidup dan berkembang di tengah arus globalisasi dan modernisasi.
+            Saat ini, Tari Dero sering dipertunjukkan dalam berbagai festival budaya dan acara pariwisata di Sulawesi Tengah dan wilayah lainnya di Indonesia. Tarian ini menjadi salah satu daya tarik utama bagi wisatawan yang ingin menyaksikan kekayaan budaya dan tradisi masyarakat Kaili.
           </p>
         </div>
 
         <div class="deskripsi-container">
-          <h3>Pentingnya Pemeliharaan dan Pendidikan</h3>
+          <h3>Pentingnya Pemeliharaan dan Pelestarian</h3>
           <p>
-            Upaya pemeliharaan dan pengajaran Tari Andun menjadi sangat penting untuk melestarikan warisan budaya yang berharga ini. Banyak sekolah dan lembaga seni di Bengkulu aktif mengajarkan tarian ini kepada generasi muda, dengan harapan mereka akan menjadi pelanjut dalam melestarikan dan mengembangkan seni budaya Rejang. Pendidikan formal juga mengintegrasikan Tari Andun sebagai bagian dari kurikulum budaya, memastikan bahwa pengetahuan akan warisan ini tidak punah.
+            Untuk memastikan kelangsungan Tari Dero, banyak komunitas seni dan budaya di Sulawesi Tengah yang aktif mengajarkan tarian ini kepada generasi muda. Melalui pelatihan dan pertunjukan rutin, mereka berusaha untuk melestarikan dan mengembangkan warisan budaya ini.
           </p>
         </div>
 
         <div class="deskripsi-container">
           <h3>Kesimpulan</h3>
           <p>
-            Tari Andun adalah simbol keindahan, kekuatan, dan kekayaan budaya dari Bengkulu. Dengan gerakan yang lincah, makna yang dalam, dan kehadiran yang tak tergantikan dalam kehidupan masyarakat Rejang, tarian ini tidak hanya memikat hati tetapi juga memperkuat ikatan sosial dan identitas budaya. Melalui upaya pemeliharaan, pengajaran, dan pengembangan, Tari Andun akan terus hidup dan berbicara kepada generasi mendatang tentang keindahan warisan budaya Rejang yang begitu berharga.
+            Tari Dero adalah simbol kebersamaan dan kekayaan budaya dari Sulawesi Tengah. Dengan gerakan yang sederhana namun penuh makna, serta kehadiran yang tak tergantikan dalam kehidupan masyarakat Kaili, tarian ini tidak hanya memikat hati tetapi juga memperkuat identitas budaya. Melalui upaya pemeliharaan, pengajaran, dan pengembangan, Tari Dero akan terus hidup dan berbicara kepada generasi mendatang tentang keindahan warisan budaya Kaili yang begitu berharga.
           </p>
         </div>
       </div>
