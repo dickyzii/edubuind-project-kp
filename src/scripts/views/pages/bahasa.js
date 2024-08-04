@@ -201,6 +201,9 @@ const Bahasa = {
     const languageOptions = this.languages.map((lang) => `<option value="${lang.code}">${lang.name}</option>`).join('');
 
     return `
+    <!-- Kode iklan Google -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5908431925689495"
+    crossorigin="anonymous"></script>
     <div class="translate-app">
       <div class="title">
         <h1>Translate Bahasa</h1>

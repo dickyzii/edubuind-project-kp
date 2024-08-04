@@ -16,6 +16,19 @@ const TarianPage = {
             </div>
           </div>
         `).join('')}
+        
+        <!-- Google AdSense Script -->
+        <div class="adsense-container">
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5908431925689495"
+                  crossorigin="anonymous"></script>
+          <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-5908431925689495",
+              enable_page_level_ads: true
+            });
+          </script>
+        </div>
+        
       </div>
       <div tabindex="0" class="deskripsi">
         <div class="deskripsi-container">

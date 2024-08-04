@@ -5,6 +5,9 @@ const TifaPage = {
     const alatMusikList = tifaData.musik;
 
     return `
+         <!-- Google AdSense Script -->
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5908431925689495"
+              crossorigin="anonymous"></script>
       <div tabindex="0" class="title">
         <h1>Galeri Alat Musik Tifa di Indonesia</h1>
       </div>

@@ -24,6 +24,8 @@ const TarianPage = {
           </div>
         `).join('')}
       </div>
+      <!-- Placeholder for AdSense -->
+      <div id="adsense-placeholder"></div>
     `;
   },
 
@@ -37,6 +39,14 @@ const TarianPage = {
         window.location.hash = `#/gallery/${tarianName}`;
       });
     });
+
+    // Tambahkan kode AdSense ke placeholder
+    const adsensePlaceholder = document.getElementById('adsense-placeholder');
+    const adsenseScript = document.createElement('script');
+    adsenseScript.async = true;
+    adsenseScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5908431925689495';
+    adsenseScript.crossOrigin = 'anonymous';
+    adsensePlaceholder.appendChild(adsenseScript);
   },
 };
 

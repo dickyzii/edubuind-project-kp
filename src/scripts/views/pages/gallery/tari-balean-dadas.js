@@ -2,17 +2,25 @@ import tarianData from '../../../../DATA/galleryjson/baleandadas.json';
 
 const TarianPage = {
   async render() {
+    if (!tarianData || !tarianData.tarian) {
+      throw new Error('Data for Tari Balean Dadas is missing or corrupted.');
+    }
+
     const tarianList = tarianData.tarian;
 
     return `
-      <div tabindex="0" class="title">
+      <!-- Google AdSense Script -->
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5908431925689495"
+              crossorigin="anonymous"></script>
+      
+      <div tabindex="0" class="title" role="heading" aria-level="1">
         <h1>Galeri Tari Balean Dadas di Indonesia</h1>
       </div>
       <div class="container">
         ${tarianList.map((tarian, index) => `
           <div class="gallery-container">
             <div class="image-link" data-index="${index}">
-              <img src="${tarian.pictureId}" alt="Tari Balean Dadas ${index + 1}">
+              <img src="${tarian.pictureId}" alt="Gambar Tari Balean Dadas ${index + 1}" loading="lazy">
             </div>
           </div>
         `).join('')}
